@@ -1,0 +1,3 @@
+Stack[tos]=4
+Stack[tos-1]=56
+Stack[tos-2]=63
